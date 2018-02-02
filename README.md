@@ -30,3 +30,15 @@ Construction...
 ## License ##
 
 [MIT](LICENSE)
+
+-----------------
+
+## Informações importantes:
+
+Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaClub) promovido pelo **DevPleno** (www.devpleno.com).
+
+**Participante:** Wesley de Oliveira Mendes
+
+**Chave do Certificado:** CF1E-924D-4DAC-07ED
+
+O certificado pode ser consultado em: https://certificados.devpleno.com
