@@ -69,13 +69,13 @@
                         <% games.forEach( game => { %>
                         <tr>
                             <th scope="row">
-																<%= game.id %>
-														</th>
+                                <%= game.id %>
+                            </th>
                             <td>
-																<input class="form-control" name="team_<%= game.id %>[a]">
-																<%= game.team_a %> vs <%= game.team_b %>
-																<input class="form-control" name="team_<%= game.id %>[b]">
-														</td>
+                                <input class="form-control" name="team_<%= game.id %>[a]">
+                                <%= game.team_a %> vs <%= game.team_b %>
+                                <input class="form-control" name="team_<%= game.id %>[b]">
+                            </td>
                             <td>
                                 <a href="/admin/games/delete/<%= game.id  %>">
                                     Excluir
@@ -85,8 +85,8 @@
                         <% }) %>
                     </tbody>
                 </table>
-								<input type="submit" value="Informar resultados">
-								</form>
+            <input type="submit" value="Informar resultados">
+            </form>
         </div>
     </section>
     

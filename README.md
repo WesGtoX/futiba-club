@@ -20,12 +20,18 @@ Author: [Wesley Mendes](https://github.com/WesGtoX)
 
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://developers.google.com/v8/).
 
+## How to use ##
 
-<!--## How to use ## -->
+Install ```XAMPP``` to run MySQL Server.  
+Install ```MySQL Workbench``` to create and generate database.  
+Install ```HeidiSQL``` or another to manage the database server.  
 
-```
-Construction...
-```
+Outbuildings:  
+```npm init```.  
+```yarn add express ejs mysql2 express-session body-parser```.  
+
+run ```node index.js```.  
+```Futiba Club server is running...```  
 
 ## License ##
 
