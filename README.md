@@ -27,10 +27,10 @@ Install ```MySQL Workbench``` to create and generate database.
 Install ```HeidiSQL``` or another to manage the database server.  
 
 Outbuildings:  
-```npm init```.  
-```yarn add express ejs mysql2 express-session body-parser```.  
+```npm init```  
+```yarn add express ejs mysql2 express-session body-parser```  
 
-run ```node index.js```.  
+run ```node index.js```  
 ```Futiba Club server is running...```  
 
 ## License ##
